@@ -140,6 +140,10 @@ The current Supabase client configuration is stored in `lib/supabase/supabase_co
 2. Make focused changes and add tests where appropriate.
 3. Run `flutter analyze` and `flutter test`.
 4. Open a pull request with a clear summary of the change.
+ 
+👥 Team & Contributors
+
+GigFinder is a collaborative project built to help users discover gig opportunities and connect with potential clients.
 
 ## License
 
